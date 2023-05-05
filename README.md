@@ -1,16 +1,15 @@
-### Hi there 👋
+👨🏻‍💻  About Me
+💼   Full Stack Developer
+🤔   Exploring new technologies and developing software solutions.
+🎓   A Software Engineering student
 
-<!--
-**oduyemi/oduyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠  Tech Stack
+💻   Python 
 
-Here are some ideas to get you started:
+🌐   HTML5 CSS Bootstrap JavaScript TypeScript React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛢   MySQL
+
+⚙️   Git GitHub Markdown
+
+🔧   Visual Studio Code
