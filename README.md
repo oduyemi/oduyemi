@@ -2,8 +2,11 @@
 
 
 💼   Full Stack Developer
+
 🤔   Exploring new technologies and developing software solutions.
-🎓   A Software Engineering student
+
+🎓   A Software Engineering student.
+
 
 🛠  Tech Stack
 
