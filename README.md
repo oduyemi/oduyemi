@@ -10,13 +10,13 @@
 
 🛠  Tech Stack
 
-💻   Python 
+💻   Python JavaScript[NodeJS, ExpressJS]
 
 
 🌐   HTML5 CSS Bootstrap JavaScript TypeScript React
 
 
-🛢   MySQL
+🛢   MySQL MONGODB
 
 
 ⚙️   Git GitHub Markdown
