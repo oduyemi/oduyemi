@@ -16,14 +16,6 @@ I am a seasoned and approachable Software Developer, passionate about crafting d
 💡    Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
 
 
----
-
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing yhermii@gmail.com.
-
-
----
 
 🛠  Tech Stack
 
