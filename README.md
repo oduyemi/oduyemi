@@ -13,7 +13,7 @@ I am a seasoned and approachable Software Developer, passionate about crafting d
 
 🤔   Exploring new technologies and developing software solutions.
 
-💡    Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
+💡    Fun fact: I am a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering)
 
 
 
