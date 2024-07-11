@@ -19,13 +19,13 @@ I am a seasoned and approachable Software Developer, passionate about crafting d
 
 🛠  Tech Stack
 
-💻   Python[Flask, FastAPI], JavaScript[NodeJS, ExpressJS]
+💻   Python[Flask, FastAPI, Django], JavaScript[NodeJS, ExpressJS, React, Vue], Typescript
 
 
 🌐   HTML5 CSS Bootstrap/Tailwind/MUI JavaScript TypeScript React, NextJS
 
 
-🛢   MySQL, MONGODB
+🛢   MySQL, MONGODB, PostgreSQL
 
 
 ⚙️   Git, GitHub Markdown
